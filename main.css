@@ -29,3 +29,7 @@ table, th, td {
 .kitties {
 	text-align: center;
 }
+
+.form {
+	display: block;
+}
